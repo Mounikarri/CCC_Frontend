@@ -37,28 +37,6 @@ Users can generate a new piece of advice by clicking the dice button, with visua
 - **Advice Slip API** – External advice provider
 
 ---
-
-## 📂 Project Structure
-
-```text
-advice-generator-app/
-│
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-│
-├── images/
-│   ├── favicon-32x32.png
-│   ├── icon-dice.svg
-│   ├── pattern-divider-mobile.svg
-│   └── pattern-divider-divider-desktop.svg
-│
-├── design/
-│   ├── mobile-design.jpg
-│   ├── desktop-design.jpg
-│   └── active-states.jpg
-
 ## ⚙️ How It Works
 
 - When the page loads, a random advice slip is fetched from the Advice Slip API.
@@ -96,6 +74,22 @@ advice-generator-app/
 - Advice Slip API for providing the advice data
 
 ---
+## 📂 Project Structure
+
+```text
+advice-generator-app/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+├── images/
+│   ├── favicon-32x32.png
+│   ├── icon-dice.svg
+│   ├── pattern-divider-mobile.svg
+│   └── pattern-divider-divider-desktop.svg
+---
 
 If you found this project interesting, feel free to ⭐ the repository!
 ```
@@ -105,5 +99,6 @@ If you found this project interesting, feel free to ⭐ the repository!
 ---
 
 ```
+
 
 
