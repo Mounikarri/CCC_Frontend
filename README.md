@@ -18,7 +18,7 @@ Built with HTML, CSS, and vanilla JavaScript, focusing on performance, clean UI,
 
 ⚡ Lightweight & fast (no frameworks)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Technology	Usage
 HTML5	Semantic structure
 CSS3	Flexbox, animations, custom properties
@@ -38,7 +38,7 @@ Updates UI instantly
 
 Transitions and animations enhance UX feedback
 
-🧩 Architecture & Approach
+## 🧩 Architecture & Approach
 
 Single-page client-side app
 
@@ -52,7 +52,7 @@ Separation of concerns (HTML / CSS / JS)
 
 Designed to be scalable, readable, and easy to migrate to React.
 
-⏱️ Performance Analysis
+## ⏱️ Performance Analysis
 Time Complexity
 
 API fetch per action → O(1)
@@ -67,7 +67,7 @@ O(1) memory usage
 
 ✅ Fast, efficient, and lightweight.
 
-🌱 Learnings
+## 🌱 Learnings
 
 API integration with error handling
 
@@ -79,7 +79,7 @@ Enhancing UX with micro-interactions
 
 Git & GitHub workflow
 
-🔮 Roadmap
+## 🔮 Roadmap
 
 Fade-in advice animation
 
@@ -91,7 +91,7 @@ Accessibility improvements
 
 React version of the app
 
-📂 Project Structure
+## 📂 Project Structure
 advice-generator-app/
 ├── index.html
 ├── style.css
@@ -103,14 +103,9 @@ advice-generator-app/
     ├── pattern-divider-mobile.svg
     └── pattern-divider-divider-desktop.svg
 
-⭐ Credits
-
-Frontend Mentor – UI challenge
-
-Advice Slip API – Advice content
-
-💡 Why This Project Matters
+## 💡 Why This Project Matters
 
 This project demonstrates real-world frontend fundamentals:
 clean code, API handling, responsive UI, and performance awareness — without relying on frameworks.
+
 
