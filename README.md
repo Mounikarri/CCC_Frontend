@@ -1,10 +1,10 @@
-🧠 Advice Generator App
+## 🧠 Advice Generator App
 
 A responsive and interactive web application that displays random advice using the Advice Slip API.
 Built with HTML, CSS, and vanilla JavaScript, focusing on performance, clean UI, and smooth user interactions.
 
 
-🚀 Key Highlights
+## 🚀 Key Highlights
 
 🎲 Instant advice generation on button click
 
@@ -113,3 +113,4 @@ Advice Slip API – Advice content
 
 This project demonstrates real-world frontend fundamentals:
 clean code, API handling, responsive UI, and performance awareness — without relying on frameworks.
+
