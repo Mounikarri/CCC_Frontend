@@ -59,48 +59,51 @@ advice-generator-app/
 │   ├── desktop-design.jpg
 │   └── active-states.jpg
 
-## How It Works
+## ⚙️ How It Works
 
-When the page loads, a random advice slip is fetched from the API.
+- When the page loads, a random advice slip is fetched from the Advice Slip API.
+- Clicking the dice button:
+  - Triggers a loading animation
+  - Fetches a new piece of advice
+  - Updates the advice ID and text dynamically
+- Animations and transitions improve user feedback and usability.
 
-Clicking the dice button:
+---
 
-Triggers a loading animation
+## 🌱 What I Learned
 
-Fetches a new piece of advice
+- How to fetch and handle data from a public API
+- Managing loading states in a user interface
+- Creating responsive layouts using pure CSS
+- Enhancing user experience with animations
+- Using Git and GitHub for version control
 
-Updates the advice ID and text dynamically
+---
 
-Animations and transitions improve feedback and usability.
+## 🔮 Future Improvements
 
-What I Learned
+- Fade-in animation for advice text
+- Prevent multiple rapid clicks
+- Improved error handling and retry logic
+- Accessibility improvements
+- Convert the app to React
 
-How to fetch and handle data from a public API
+---
 
-Managing loading states in a UI
+## ⭐ Acknowledgements
 
-Creating responsive layouts using pure CSS
+- Frontend Mentor for the challenge
+- Advice Slip API for providing the advice data
 
-Enhancing user experience with animations
-
-Using Git and GitHub for version control
-
-Future Improvements
-
-Fade-in animation for advice text
-
-Prevent multiple rapid clicks
-
-Error retry handling
-
-Accessibility improvements
-
-Convert the app to React
+---
 
 If you found this project interesting, feel free to ⭐ the repository!
+```
+
 
 
 ---
 
 ```
+
 
