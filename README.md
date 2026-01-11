@@ -59,7 +59,7 @@ advice-generator-app/
 │   ├── desktop-design.jpg
 │   └── active-states.jpg
 
-How It Works
+## How It Works
 
 When the page loads, a random advice slip is fetched from the API.
 
@@ -103,3 +103,4 @@ If you found this project interesting, feel free to ⭐ the repository!
 ---
 
 ```
+
