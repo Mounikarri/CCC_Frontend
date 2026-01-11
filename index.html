@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Advice Generator App</title>
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Main Wrapper -->
+  <main class="container">
+
+    <!-- Advice Card -->
+    <section class="advice-card">
+
+      <!-- Advice ID -->
+      <p class="advice-id">
+        ADVICE #117
+      </p>
+
+      <!-- Advice Text -->
+      <blockquote class="advice-text">
+        “Click the dice to generate a new piece of advice.”
+      </blockquote>
+
+      <!-- Divider -->
+      <picture class="divider">
+        <source
+          media="(min-width: 768px)"
+          srcset="images/pattern-divider-desktop.svg"
+        >
+        <img
+          src="images/pattern-divider-mobile.svg"
+          alt="divider pattern"
+        >
+      </picture>
+
+      <!-- Dice Button -->
+      <button class="dice-btn" aria-label="Generate advice">
+        <img
+          src="images/icon-dice.svg"
+          alt="dice icon"
+        >
+      </button>
+
+    </section>
+  </main>
+
+  <!-- JavaScript -->
+  <script src="script.js"></script>
+
+</body>
+</html>
